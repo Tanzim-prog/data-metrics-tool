@@ -1,2 +1,3 @@
 # data-metrics-tool
-R tool for quick computations of the mean, median, and mode. Make data analysis simpler. free source and simple to use. Examine your datasets with ease.
+R tool for quick computations of the mean, median, and mode. Make data analysis simpler. free-source and simple to use. Examine your datasets with ease.
+The mean, median, and mode of a dataset are three crucial statistical metrics that may be determined with this R-based application. Whether you work as an analyst, data scientist, or are just interested in data, this tool makes it easier to draw important conclusions from your data. You may easily retrieve these central tendency statistics with its user-friendly interface, which will help you understand your datasets better. Make educated decisions, investigate data distributions, and find hidden trends with its help. Make your data analysis workflow more efficient by using this useful statistics calculator.
